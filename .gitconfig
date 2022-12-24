@@ -3,7 +3,7 @@
     email = keita.atticot@ledger.fr
 	signingkey = 19FA10610F8A56CE
 [commit]
-	gpgsign = false
+	gpgsign = true
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
